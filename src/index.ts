@@ -1,1 +1,2 @@
-console.log('ligou');
+import 'dotenv/config';
+import './server';
